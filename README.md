@@ -1,6 +1,5 @@
 [![Cuchilleras](https://dirdam.github.io/images/logo_cuchilleras.png)](https://dirdam.github.io/cuchilleras.html)
 
-<a name="que-es"></a>
 # ¿Qué es?
 
 *Cuchilleras* es una fuente que innova y moderniza la escritura del español.
@@ -23,7 +22,6 @@ La fuente se divide en realidad dos fuentes y son *completamente* ***gratuitas**
 
 Para más detalles accede a la [página oficial de Cuchilleras](https://dirdam.github.io/cuchilleras) o lee el [ensayo](https://dirdam.github.io/assets/others/Cuchilleras.pdf).
 
-<a name="como-instalar-en-tu-ordenador"></a>
 # ¿Cómo instalar en tu ordenador?
 
 Para poder escribir con la fuente en tu dispositivo sigue los siguientes pasos.
@@ -34,9 +32,8 @@ Para poder escribir con la fuente en tu dispositivo sigue los siguientes pasos.
     1. Instala primero los estilos redondos *[CuchillerasVF.ttf](./variable/CuchillerasVF.ttf)* y *[CuchillerasSansVF.ttf](./variable/CuchillerasSansVF.ttf)*.
     2. Instala después los estilos cursivos *[CuchillerasItalicVF.ttf](./variable/CuchillerasItalicVF.ttf)* y *[CuchillerasSansItalicVF.ttf](./variable/CuchillerasSansItalicVF.ttf)*.
 
-3. **Abre** el programa donde quieras usar la fuente y **elige** *Cuchilleras* o *Cuchilleras Sans* en el menú de las familias de fuentes.
+Tras ello, simplemente abre el programa donde quieras usar la fuente y elige *Cuchilleras* o *Cuchilleras Sans* en el menú de las familias de fuentes.
 
-<a name="como-usar-online"></a>
 # ¿Cómo usar *online*?
 
 Para usar *Cuchilleras* en tu página HTML incluye la siguiente referencia en la sección `<head>`:
@@ -55,14 +52,12 @@ La fuente ofrece dos estilos de uso:
 <p style="font-family: 'CuchillerasSans'">(2) Este texto usa la fuente <i>Cuchilleras Sans</i> (<b>sin</b> remate).</p>
 ```
 
-<a name="licencia"></a>
 # Licencia
 
 *Cuchilleras* se basa en [*Noto*](https://fonts.google.com/noto), la fuente de código abierto de Google, y se puede distribuir y modificar bajo **SIL Open Font License**. Por favor lee el archivo [LICENSE.txt](./LICENSE.txt) para conocer los detalles.
 
 En resumen, puedes usar la fuente para tus productos y proyectos, tanto imprimidos como digitales, comerciales u otros usos.
 
-<a name="credito"></a>
 # Crédito
 
 Tanto la idea original como el desarrollo técnico de la fuente han sido realizados por [Adrián Jiménez Pascual](https://dirdam.github.io#es).
