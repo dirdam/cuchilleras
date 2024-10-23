@@ -1,4 +1,4 @@
-[![Cuchilleras](https://dirdam.github.io/images/logo_cuchilleras.png)](https://dirdam.github.io/cuchilleras.html)
+[![Cuchilleras](https://dirdam.github.io/images/cuchilleras/logo_cuchilleras.png)](https://dirdam.github.io/cuchilleras.html)
 
 # ¿Qué es?
 
@@ -6,7 +6,7 @@
 
 Accede al ensayo en defensa de su creación y uso [aquí](https://dirdam.github.io/assets/others/Cuchilleras.pdf).
 
-[![Ensayo Cuchilleras](https://dirdam.github.io/images/pic_cuchilleras_preview.png)](https://dirdam.github.io/assets/others/Cuchilleras.pdf)
+[![Ensayo Cuchilleras](https://dirdam.github.io/images/cuchilleras/pic_cuchilleras_preview.png)](https://dirdam.github.io/assets/others/Cuchilleras.pdf)
 
 La fuente se divide en realidad dos fuentes y son *completamente* ***gratuitas***.
 
