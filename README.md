@@ -54,7 +54,7 @@ La fuente ofrece dos estilos de uso:
 
 # Licencia
 
-*Cuchilleras* se basa en [*Noto*](https://fonts.google.com/noto), la fuente de código abierto de Google, y se puede distribuir y modificar bajo **SIL Open Font License**. Por favor lee el archivo [LICENSE.txt](./LICENSE.txt) para conocer los detalles.
+*Cuchilleras* se basa en [*Noto*](https://fonts.google.com/noto), la fuente de código abierto de Google, y se puede distribuir y modificar bajo **SIL Open Font License**. Por favor lee el archivo [LICENSE](https://github.com/dirdam/cuchilleras?tab=License-1-ov-file) para conocer los detalles.
 
 En resumen, puedes usar la fuente para tus productos y proyectos, tanto imprimidos como digitales, comerciales u otros usos.
 
