@@ -1,6 +1,6 @@
 # Enlaces de descarga
 
-Haz clic en el nombre del archivo que quieras descargar.
+Descarga todos los archivos comprimidos [aquí](https://raw.githubusercontent.com/dirdam/cuchilleras/main/variable/Cuchilleras.zip) o haz clic en el nombre de los archivos individuales que quieras descargar.
 
 ### Fuente con remate/serifa
 
