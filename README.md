@@ -25,14 +25,14 @@ Para más detalles accede a la [página oficial de Cuchilleras](https://dirdam.g
 # ¿Cómo instalar en tu ordenador?
 
 Para poder escribir con la fuente en tu dispositivo sigue los siguientes pasos.
-1. **Descarga** los 4 archivos `.ttf` de la carpeta [`variable`](./variable/).
-    - En caso de que tu sistema no permita el uso de fuentes variables, instala los pesos de fuente que quieras de la carpeta [`static`](./static/).
+1. **Descarga** los 4 archivos `.ttf` de la carpeta [`variable`](./variable/README.md).
+    - En caso de que tu sistema no permita el uso de fuentes variables, instala los pesos de fuente que quieras de la carpeta [`static`](./static/README.md).
 2. **Instala** los archivos según el sistema operativo que utilices: [MacOS](https://support.apple.com/es-es/guide/font-book/fntbk1000/mac) / [Linux](https://www.google.com/search?q=instalar+fuentes+en+gnu%2Blinux) / [Windows](https://support.microsoft.com/es-es/office/agregar-una-fuente-b7c5f17c-4426-4b53-967f-455339c564c1). (Generalmente hacer doble clic en el archivo inicia automáticamente el asistente de instalación).
 
     1. Instala primero los estilos redondos *[CuchillerasVF.ttf](https://raw.githubusercontent.com/dirdam/cuchilleras/main/variable/CuchillerasVF.ttf)* y *[CuchillerasSansVF.ttf](https://raw.githubusercontent.com/dirdam/cuchilleras/main/variable/CuchillerasSansVF.ttf)*.
     2. Instala después los estilos cursivos *[CuchillerasItalicVF.ttf](https://raw.githubusercontent.com/dirdam/cuchilleras/main/variable/CuchillerasItalicVF.ttf)* y *[CuchillerasSansItalicVF.ttf](https://raw.githubusercontent.com/dirdam/cuchilleras/main/variable/CuchillerasSansItalicVF.ttf)*.
 
-Tras ello, simplemente abre el programa donde quieras usar la fuente y elige *Cuchilleras* o *Cuchilleras Sans* en el menú de las familias de fuentes.
+Tras ello, simplemente abre el programa donde quieras usar la fuente, elige *Cuchilleras* o *Cuchilleras Sans* en el menú de las familias de fuentes y disfruta escribiendo.
 
 # ¿Cómo usar *online*?
 
